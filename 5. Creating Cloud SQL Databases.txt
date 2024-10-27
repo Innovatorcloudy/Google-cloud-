@@ -1,0 +1,7 @@
+#================CHANGE ZONE==============
+
+export ZONE=us-east4-a
+
+curl -LO raw.githubusercontent.com/Techcps/GSP-Short-Trick/master/Creating%20Cloud%20SQL%20Databases/techcps.sh 
+sudo chmod +x techcps.sh
+./techcps.sh
